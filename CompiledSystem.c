@@ -1,4 +1,7 @@
-// C Program to implement Bus Reservation System 
+//SEAN NJENGA 
+//BCS-02-0441/2023
+// Compiled Code written in C for Capstone System.
+//Welcome to my C Program to implement Bus Reservation System 
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
