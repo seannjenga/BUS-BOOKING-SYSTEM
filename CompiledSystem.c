@@ -42,7 +42,7 @@ void displayMainMenu()
  
 void displayUserMenu() 
 { 
-	printf("\n=== User Menu ===\n"); 
+	printf("\n +++++ Welcome! User Menu ===\n"); 
 	printf("1. Book a Ticket\n"); 
 	printf("2. Cancel a Ticket\n"); 
 	printf("3. Check Bus Status\n"); 
@@ -171,9 +171,9 @@ int main()
 { 
 	// Initialize user data 
 	struct User users[5] = { 
-		{ "user1", "password1" }, { "user2", "password2" }, 
-		{ "Sean", "password3" }, { "user4", "password4" }, 
-		{ "user5", "password5" }, 
+		{ "Sean", "password1" }, { "David", "password2" }, 
+		{ "Paul", "password3" }, { "Andrew", "password4" }, 
+		{ "Mary", "password5" }, 
 	}; 
 	int numUsers = 5; 
 
