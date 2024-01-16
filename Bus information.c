@@ -4,12 +4,12 @@
 
 //Definbe a structure to store Bus Information
 struct Bus {
-int bus Number;
-char source;
-char destination[50];
-int totalSeats;
-int availableSeats;
-float fare;
+	int busNumber;
+	char source [50];
+	char destination[50];
+	int totalSeats;
+	int availableSeats;
+	float fare;
 
 };
 
